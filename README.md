@@ -17,6 +17,18 @@
 - 📫 How to reach me (email): **ahmedsource2021@gmail.com**
 <br>
 
+## Connect with me 
+<br>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmed-osama-8625471ba/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/ESOURC" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="adam pithen wala" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/ahmed_osama0_0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mostafahendawii" height="30" width="40" /></a>
+</p>
+<br> 
 <p> 
 I started my journey since late 2019, I have a passion for most aspects of computer related departments as I learned many languages like
 - html, JavaScript, php, python
@@ -113,18 +125,8 @@ And deal with oop , software design patterns and solid principles using php
 
 <br>
 </p>
-## Connect with me 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-osama-8625471ba/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/ESOURC" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/ahmed_osama0_0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mostafahendawii" height="30" width="40" /></a>
-</p>
-<br> 
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
